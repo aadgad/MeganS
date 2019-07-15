@@ -17,4 +17,4 @@ while (i < 3):
     else:
         print ("Guess lower.")
     i += 1
-    print ("Sorry, the number was " + str(aRandomNumber))
+    
